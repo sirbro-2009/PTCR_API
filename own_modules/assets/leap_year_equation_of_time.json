@@ -1,0 +1,2930 @@
+[
+      {
+        "day_of_year": 1,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 1,
+        "date": "01/01",
+        "equation_of_time_minutes": -2.9042
+      },
+      {
+        "day_of_year": 2,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 2,
+        "date": "02/01",
+        "equation_of_time_minutes": -3.3501
+      },
+      {
+        "day_of_year": 3,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 3,
+        "date": "03/01",
+        "equation_of_time_minutes": -3.7919
+      },
+      {
+        "day_of_year": 4,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 4,
+        "date": "04/01",
+        "equation_of_time_minutes": -4.229
+      },
+      {
+        "day_of_year": 5,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 5,
+        "date": "05/01",
+        "equation_of_time_minutes": -4.661
+      },
+      {
+        "day_of_year": 6,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 6,
+        "date": "06/01",
+        "equation_of_time_minutes": -5.0876
+      },
+      {
+        "day_of_year": 7,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 7,
+        "date": "07/01",
+        "equation_of_time_minutes": -5.5084
+      },
+      {
+        "day_of_year": 8,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 8,
+        "date": "08/01",
+        "equation_of_time_minutes": -5.9229
+      },
+      {
+        "day_of_year": 9,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 9,
+        "date": "09/01",
+        "equation_of_time_minutes": -6.3309
+      },
+      {
+        "day_of_year": 10,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 10,
+        "date": "10/01",
+        "equation_of_time_minutes": -6.7318
+      },
+      {
+        "day_of_year": 11,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 11,
+        "date": "11/01",
+        "equation_of_time_minutes": -7.1255
+      },
+      {
+        "day_of_year": 12,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 12,
+        "date": "12/01",
+        "equation_of_time_minutes": -7.5115
+      },
+      {
+        "day_of_year": 13,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 13,
+        "date": "13/01",
+        "equation_of_time_minutes": -7.8894
+      },
+      {
+        "day_of_year": 14,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 14,
+        "date": "14/01",
+        "equation_of_time_minutes": -8.259
+      },
+      {
+        "day_of_year": 15,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 15,
+        "date": "15/01",
+        "equation_of_time_minutes": -8.6199
+      },
+      {
+        "day_of_year": 16,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 16,
+        "date": "16/01",
+        "equation_of_time_minutes": -8.9718
+      },
+      {
+        "day_of_year": 17,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 17,
+        "date": "17/01",
+        "equation_of_time_minutes": -9.3143
+      },
+      {
+        "day_of_year": 18,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 18,
+        "date": "18/01",
+        "equation_of_time_minutes": -9.6473
+      },
+      {
+        "day_of_year": 19,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 19,
+        "date": "19/01",
+        "equation_of_time_minutes": -9.9704
+      },
+      {
+        "day_of_year": 20,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 20,
+        "date": "20/01",
+        "equation_of_time_minutes": -10.2834
+      },
+      {
+        "day_of_year": 21,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 21,
+        "date": "21/01",
+        "equation_of_time_minutes": -10.5859
+      },
+      {
+        "day_of_year": 22,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 22,
+        "date": "22/01",
+        "equation_of_time_minutes": -10.8777
+      },
+      {
+        "day_of_year": 23,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 23,
+        "date": "23/01",
+        "equation_of_time_minutes": -11.1587
+      },
+      {
+        "day_of_year": 24,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 24,
+        "date": "24/01",
+        "equation_of_time_minutes": -11.4285
+      },
+      {
+        "day_of_year": 25,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 25,
+        "date": "25/01",
+        "equation_of_time_minutes": -11.687
+      },
+      {
+        "day_of_year": 26,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 26,
+        "date": "26/01",
+        "equation_of_time_minutes": -11.9339
+      },
+      {
+        "day_of_year": 27,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 27,
+        "date": "27/01",
+        "equation_of_time_minutes": -12.1692
+      },
+      {
+        "day_of_year": 28,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 28,
+        "date": "28/01",
+        "equation_of_time_minutes": -12.3925
+      },
+      {
+        "day_of_year": 29,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 29,
+        "date": "29/01",
+        "equation_of_time_minutes": -12.6037
+      },
+      {
+        "day_of_year": 30,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 30,
+        "date": "30/01",
+        "equation_of_time_minutes": -12.8028
+      },
+      {
+        "day_of_year": 31,
+        "month": 1,
+        "month_name_ar": "يناير",
+        "day": 31,
+        "date": "31/01",
+        "equation_of_time_minutes": -12.9895
+      },
+      {
+        "day_of_year": 32,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 1,
+        "date": "01/02",
+        "equation_of_time_minutes": -13.1637
+      },
+      {
+        "day_of_year": 33,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 2,
+        "date": "02/02",
+        "equation_of_time_minutes": -13.3254
+      },
+      {
+        "day_of_year": 34,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 3,
+        "date": "03/02",
+        "equation_of_time_minutes": -13.4744
+      },
+      {
+        "day_of_year": 35,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 4,
+        "date": "04/02",
+        "equation_of_time_minutes": -13.6107
+      },
+      {
+        "day_of_year": 36,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 5,
+        "date": "05/02",
+        "equation_of_time_minutes": -13.7342
+      },
+      {
+        "day_of_year": 37,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 6,
+        "date": "06/02",
+        "equation_of_time_minutes": -13.8449
+      },
+      {
+        "day_of_year": 38,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 7,
+        "date": "07/02",
+        "equation_of_time_minutes": -13.9426
+      },
+      {
+        "day_of_year": 39,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 8,
+        "date": "08/02",
+        "equation_of_time_minutes": -14.0275
+      },
+      {
+        "day_of_year": 40,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 9,
+        "date": "09/02",
+        "equation_of_time_minutes": -14.0994
+      },
+      {
+        "day_of_year": 41,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 10,
+        "date": "10/02",
+        "equation_of_time_minutes": -14.1585
+      },
+      {
+        "day_of_year": 42,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 11,
+        "date": "11/02",
+        "equation_of_time_minutes": -14.2046
+      },
+      {
+        "day_of_year": 43,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 12,
+        "date": "12/02",
+        "equation_of_time_minutes": -14.238
+      },
+      {
+        "day_of_year": 44,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 13,
+        "date": "13/02",
+        "equation_of_time_minutes": -14.2585
+      },
+      {
+        "day_of_year": 45,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 14,
+        "date": "14/02",
+        "equation_of_time_minutes": -14.2663
+      },
+      {
+        "day_of_year": 46,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 15,
+        "date": "15/02",
+        "equation_of_time_minutes": -14.2614
+      },
+      {
+        "day_of_year": 47,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 16,
+        "date": "16/02",
+        "equation_of_time_minutes": -14.244
+      },
+      {
+        "day_of_year": 48,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 17,
+        "date": "17/02",
+        "equation_of_time_minutes": -14.2141
+      },
+      {
+        "day_of_year": 49,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 18,
+        "date": "18/02",
+        "equation_of_time_minutes": -14.1718
+      },
+      {
+        "day_of_year": 50,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 19,
+        "date": "19/02",
+        "equation_of_time_minutes": -14.1174
+      },
+      {
+        "day_of_year": 51,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 20,
+        "date": "20/02",
+        "equation_of_time_minutes": -14.0508
+      },
+      {
+        "day_of_year": 52,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 21,
+        "date": "21/02",
+        "equation_of_time_minutes": -13.9724
+      },
+      {
+        "day_of_year": 53,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 22,
+        "date": "22/02",
+        "equation_of_time_minutes": -13.8822
+      },
+      {
+        "day_of_year": 54,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 23,
+        "date": "23/02",
+        "equation_of_time_minutes": -13.7805
+      },
+      {
+        "day_of_year": 55,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 24,
+        "date": "24/02",
+        "equation_of_time_minutes": -13.6674
+      },
+      {
+        "day_of_year": 56,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 25,
+        "date": "25/02",
+        "equation_of_time_minutes": -13.5431
+      },
+      {
+        "day_of_year": 57,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 26,
+        "date": "26/02",
+        "equation_of_time_minutes": -13.4079
+      },
+      {
+        "day_of_year": 58,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 27,
+        "date": "27/02",
+        "equation_of_time_minutes": -13.262
+      },
+      {
+        "day_of_year": 59,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 28,
+        "date": "28/02",
+        "equation_of_time_minutes": -13.1056
+      },
+      {
+        "day_of_year": 60,
+        "month": 2,
+        "month_name_ar": "فبراير",
+        "day": 29,
+        "date": "29/02",
+        "equation_of_time_minutes": -12.939
+      },
+      {
+        "day_of_year": 61,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 1,
+        "date": "01/03",
+        "equation_of_time_minutes": -12.7625
+      },
+      {
+        "day_of_year": 62,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 2,
+        "date": "02/03",
+        "equation_of_time_minutes": -12.5762
+      },
+      {
+        "day_of_year": 63,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 3,
+        "date": "03/03",
+        "equation_of_time_minutes": -12.3805
+      },
+      {
+        "day_of_year": 64,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 4,
+        "date": "04/03",
+        "equation_of_time_minutes": -12.1758
+      },
+      {
+        "day_of_year": 65,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 5,
+        "date": "05/03",
+        "equation_of_time_minutes": -11.9622
+      },
+      {
+        "day_of_year": 66,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 6,
+        "date": "06/03",
+        "equation_of_time_minutes": -11.7401
+      },
+      {
+        "day_of_year": 67,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 7,
+        "date": "07/03",
+        "equation_of_time_minutes": -11.5098
+      },
+      {
+        "day_of_year": 68,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 8,
+        "date": "08/03",
+        "equation_of_time_minutes": -11.2717
+      },
+      {
+        "day_of_year": 69,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 9,
+        "date": "09/03",
+        "equation_of_time_minutes": -11.026
+      },
+      {
+        "day_of_year": 70,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 10,
+        "date": "10/03",
+        "equation_of_time_minutes": -10.7731
+      },
+      {
+        "day_of_year": 71,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 11,
+        "date": "11/03",
+        "equation_of_time_minutes": -10.5134
+      },
+      {
+        "day_of_year": 72,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 12,
+        "date": "12/03",
+        "equation_of_time_minutes": -10.2473
+      },
+      {
+        "day_of_year": 73,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 13,
+        "date": "13/03",
+        "equation_of_time_minutes": -9.9749
+      },
+      {
+        "day_of_year": 74,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 14,
+        "date": "14/03",
+        "equation_of_time_minutes": -9.6969
+      },
+      {
+        "day_of_year": 75,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 15,
+        "date": "15/03",
+        "equation_of_time_minutes": -9.4134
+      },
+      {
+        "day_of_year": 76,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 16,
+        "date": "16/03",
+        "equation_of_time_minutes": -9.1249
+      },
+      {
+        "day_of_year": 77,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 17,
+        "date": "17/03",
+        "equation_of_time_minutes": -8.8318
+      },
+      {
+        "day_of_year": 78,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 18,
+        "date": "18/03",
+        "equation_of_time_minutes": -8.5344
+      },
+      {
+        "day_of_year": 79,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 19,
+        "date": "19/03",
+        "equation_of_time_minutes": -8.2331
+      },
+      {
+        "day_of_year": 80,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 20,
+        "date": "20/03",
+        "equation_of_time_minutes": -7.9283
+      },
+      {
+        "day_of_year": 81,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 21,
+        "date": "21/03",
+        "equation_of_time_minutes": -7.6205
+      },
+      {
+        "day_of_year": 82,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 22,
+        "date": "22/03",
+        "equation_of_time_minutes": -7.3099
+      },
+      {
+        "day_of_year": 83,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 23,
+        "date": "23/03",
+        "equation_of_time_minutes": -6.997
+      },
+      {
+        "day_of_year": 84,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 24,
+        "date": "24/03",
+        "equation_of_time_minutes": -6.6822
+      },
+      {
+        "day_of_year": 85,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 25,
+        "date": "25/03",
+        "equation_of_time_minutes": -6.3659
+      },
+      {
+        "day_of_year": 86,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 26,
+        "date": "26/03",
+        "equation_of_time_minutes": -6.0485
+      },
+      {
+        "day_of_year": 87,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 27,
+        "date": "27/03",
+        "equation_of_time_minutes": -5.7303
+      },
+      {
+        "day_of_year": 88,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 28,
+        "date": "28/03",
+        "equation_of_time_minutes": -5.4118
+      },
+      {
+        "day_of_year": 89,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 29,
+        "date": "29/03",
+        "equation_of_time_minutes": -5.0934
+      },
+      {
+        "day_of_year": 90,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 30,
+        "date": "30/03",
+        "equation_of_time_minutes": -4.7753
+      },
+      {
+        "day_of_year": 91,
+        "month": 3,
+        "month_name_ar": "مارس",
+        "day": 31,
+        "date": "31/03",
+        "equation_of_time_minutes": -4.4581
+      },
+      {
+        "day_of_year": 92,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 1,
+        "date": "01/04",
+        "equation_of_time_minutes": -4.1422
+      },
+      {
+        "day_of_year": 93,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 2,
+        "date": "02/04",
+        "equation_of_time_minutes": -3.8278
+      },
+      {
+        "day_of_year": 94,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 3,
+        "date": "03/04",
+        "equation_of_time_minutes": -3.5154
+      },
+      {
+        "day_of_year": 95,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 4,
+        "date": "04/04",
+        "equation_of_time_minutes": -3.2053
+      },
+      {
+        "day_of_year": 96,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 5,
+        "date": "05/04",
+        "equation_of_time_minutes": -2.8979
+      },
+      {
+        "day_of_year": 97,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 6,
+        "date": "06/04",
+        "equation_of_time_minutes": -2.5936
+      },
+      {
+        "day_of_year": 98,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 7,
+        "date": "07/04",
+        "equation_of_time_minutes": -2.2928
+      },
+      {
+        "day_of_year": 99,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 8,
+        "date": "08/04",
+        "equation_of_time_minutes": -1.9957
+      },
+      {
+        "day_of_year": 100,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 9,
+        "date": "09/04",
+        "equation_of_time_minutes": -1.7027
+      },
+      {
+        "day_of_year": 101,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 10,
+        "date": "10/04",
+        "equation_of_time_minutes": -1.4143
+      },
+      {
+        "day_of_year": 102,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 11,
+        "date": "11/04",
+        "equation_of_time_minutes": -1.1306
+      },
+      {
+        "day_of_year": 103,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 12,
+        "date": "12/04",
+        "equation_of_time_minutes": -0.852
+      },
+      {
+        "day_of_year": 104,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 13,
+        "date": "13/04",
+        "equation_of_time_minutes": -0.5789
+      },
+      {
+        "day_of_year": 105,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 14,
+        "date": "14/04",
+        "equation_of_time_minutes": -0.3115
+      },
+      {
+        "day_of_year": 106,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 15,
+        "date": "15/04",
+        "equation_of_time_minutes": -0.0502
+      },
+      {
+        "day_of_year": 107,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 16,
+        "date": "16/04",
+        "equation_of_time_minutes": 0.2048
+      },
+      {
+        "day_of_year": 108,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 17,
+        "date": "17/04",
+        "equation_of_time_minutes": 0.4532
+      },
+      {
+        "day_of_year": 109,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 18,
+        "date": "18/04",
+        "equation_of_time_minutes": 0.6948
+      },
+      {
+        "day_of_year": 110,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 19,
+        "date": "19/04",
+        "equation_of_time_minutes": 0.9291
+      },
+      {
+        "day_of_year": 111,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 20,
+        "date": "20/04",
+        "equation_of_time_minutes": 1.1561
+      },
+      {
+        "day_of_year": 112,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 21,
+        "date": "21/04",
+        "equation_of_time_minutes": 1.3754
+      },
+      {
+        "day_of_year": 113,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 22,
+        "date": "22/04",
+        "equation_of_time_minutes": 1.5869
+      },
+      {
+        "day_of_year": 114,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 23,
+        "date": "23/04",
+        "equation_of_time_minutes": 1.7903
+      },
+      {
+        "day_of_year": 115,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 24,
+        "date": "24/04",
+        "equation_of_time_minutes": 1.9854
+      },
+      {
+        "day_of_year": 116,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 25,
+        "date": "25/04",
+        "equation_of_time_minutes": 2.172
+      },
+      {
+        "day_of_year": 117,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 26,
+        "date": "26/04",
+        "equation_of_time_minutes": 2.35
+      },
+      {
+        "day_of_year": 118,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 27,
+        "date": "27/04",
+        "equation_of_time_minutes": 2.5191
+      },
+      {
+        "day_of_year": 119,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 28,
+        "date": "28/04",
+        "equation_of_time_minutes": 2.6792
+      },
+      {
+        "day_of_year": 120,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 29,
+        "date": "29/04",
+        "equation_of_time_minutes": 2.8302
+      },
+      {
+        "day_of_year": 121,
+        "month": 4,
+        "month_name_ar": "أبريل",
+        "day": 30,
+        "date": "30/04",
+        "equation_of_time_minutes": 2.9719
+      },
+      {
+        "day_of_year": 122,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 1,
+        "date": "01/05",
+        "equation_of_time_minutes": 3.1042
+      },
+      {
+        "day_of_year": 123,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 2,
+        "date": "02/05",
+        "equation_of_time_minutes": 3.227
+      },
+      {
+        "day_of_year": 124,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 3,
+        "date": "03/05",
+        "equation_of_time_minutes": 3.3402
+      },
+      {
+        "day_of_year": 125,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 4,
+        "date": "04/05",
+        "equation_of_time_minutes": 3.4438
+      },
+      {
+        "day_of_year": 126,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 5,
+        "date": "05/05",
+        "equation_of_time_minutes": 3.5375
+      },
+      {
+        "day_of_year": 127,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 6,
+        "date": "06/05",
+        "equation_of_time_minutes": 3.6215
+      },
+      {
+        "day_of_year": 128,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 7,
+        "date": "07/05",
+        "equation_of_time_minutes": 3.6956
+      },
+      {
+        "day_of_year": 129,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 8,
+        "date": "08/05",
+        "equation_of_time_minutes": 3.7598
+      },
+      {
+        "day_of_year": 130,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 9,
+        "date": "09/05",
+        "equation_of_time_minutes": 3.8141
+      },
+      {
+        "day_of_year": 131,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 10,
+        "date": "10/05",
+        "equation_of_time_minutes": 3.8586
+      },
+      {
+        "day_of_year": 132,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 11,
+        "date": "11/05",
+        "equation_of_time_minutes": 3.8931
+      },
+      {
+        "day_of_year": 133,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 12,
+        "date": "12/05",
+        "equation_of_time_minutes": 3.9178
+      },
+      {
+        "day_of_year": 134,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 13,
+        "date": "13/05",
+        "equation_of_time_minutes": 3.9326
+      },
+      {
+        "day_of_year": 135,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 14,
+        "date": "14/05",
+        "equation_of_time_minutes": 3.9377
+      },
+      {
+        "day_of_year": 136,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 15,
+        "date": "15/05",
+        "equation_of_time_minutes": 3.933
+      },
+      {
+        "day_of_year": 137,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 16,
+        "date": "16/05",
+        "equation_of_time_minutes": 3.9187
+      },
+      {
+        "day_of_year": 138,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 17,
+        "date": "17/05",
+        "equation_of_time_minutes": 3.8949
+      },
+      {
+        "day_of_year": 139,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 18,
+        "date": "18/05",
+        "equation_of_time_minutes": 3.8615
+      },
+      {
+        "day_of_year": 140,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 19,
+        "date": "19/05",
+        "equation_of_time_minutes": 3.8189
+      },
+      {
+        "day_of_year": 141,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 20,
+        "date": "20/05",
+        "equation_of_time_minutes": 3.767
+      },
+      {
+        "day_of_year": 142,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 21,
+        "date": "21/05",
+        "equation_of_time_minutes": 3.7061
+      },
+      {
+        "day_of_year": 143,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 22,
+        "date": "22/05",
+        "equation_of_time_minutes": 3.6363
+      },
+      {
+        "day_of_year": 144,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 23,
+        "date": "23/05",
+        "equation_of_time_minutes": 3.5576
+      },
+      {
+        "day_of_year": 145,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 24,
+        "date": "24/05",
+        "equation_of_time_minutes": 3.4704
+      },
+      {
+        "day_of_year": 146,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 25,
+        "date": "25/05",
+        "equation_of_time_minutes": 3.3748
+      },
+      {
+        "day_of_year": 147,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 26,
+        "date": "26/05",
+        "equation_of_time_minutes": 3.271
+      },
+      {
+        "day_of_year": 148,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 27,
+        "date": "27/05",
+        "equation_of_time_minutes": 3.1592
+      },
+      {
+        "day_of_year": 149,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 28,
+        "date": "28/05",
+        "equation_of_time_minutes": 3.0397
+      },
+      {
+        "day_of_year": 150,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 29,
+        "date": "29/05",
+        "equation_of_time_minutes": 2.9125
+      },
+      {
+        "day_of_year": 151,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 30,
+        "date": "30/05",
+        "equation_of_time_minutes": 2.7781
+      },
+      {
+        "day_of_year": 152,
+        "month": 5,
+        "month_name_ar": "مايو",
+        "day": 31,
+        "date": "31/05",
+        "equation_of_time_minutes": 2.6366
+      },
+      {
+        "day_of_year": 153,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 1,
+        "date": "01/06",
+        "equation_of_time_minutes": 2.4883
+      },
+      {
+        "day_of_year": 154,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 2,
+        "date": "02/06",
+        "equation_of_time_minutes": 2.3335
+      },
+      {
+        "day_of_year": 155,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 3,
+        "date": "03/06",
+        "equation_of_time_minutes": 2.1724
+      },
+      {
+        "day_of_year": 156,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 4,
+        "date": "04/06",
+        "equation_of_time_minutes": 2.0053
+      },
+      {
+        "day_of_year": 157,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 5,
+        "date": "05/06",
+        "equation_of_time_minutes": 1.8325
+      },
+      {
+        "day_of_year": 158,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 6,
+        "date": "06/06",
+        "equation_of_time_minutes": 1.6544
+      },
+      {
+        "day_of_year": 159,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 7,
+        "date": "07/06",
+        "equation_of_time_minutes": 1.4712
+      },
+      {
+        "day_of_year": 160,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 8,
+        "date": "08/06",
+        "equation_of_time_minutes": 1.2832
+      },
+      {
+        "day_of_year": 161,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 9,
+        "date": "09/06",
+        "equation_of_time_minutes": 1.0907
+      },
+      {
+        "day_of_year": 162,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 10,
+        "date": "10/06",
+        "equation_of_time_minutes": 0.8942
+      },
+      {
+        "day_of_year": 163,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 11,
+        "date": "11/06",
+        "equation_of_time_minutes": 0.6939
+      },
+      {
+        "day_of_year": 164,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 12,
+        "date": "12/06",
+        "equation_of_time_minutes": 0.4901
+      },
+      {
+        "day_of_year": 165,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 13,
+        "date": "13/06",
+        "equation_of_time_minutes": 0.2833
+      },
+      {
+        "day_of_year": 166,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 14,
+        "date": "14/06",
+        "equation_of_time_minutes": 0.0736
+      },
+      {
+        "day_of_year": 167,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 15,
+        "date": "15/06",
+        "equation_of_time_minutes": -0.1384
+      },
+      {
+        "day_of_year": 168,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 16,
+        "date": "16/06",
+        "equation_of_time_minutes": -0.3525
+      },
+      {
+        "day_of_year": 169,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 17,
+        "date": "17/06",
+        "equation_of_time_minutes": -0.5682
+      },
+      {
+        "day_of_year": 170,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 18,
+        "date": "18/06",
+        "equation_of_time_minutes": -0.7853
+      },
+      {
+        "day_of_year": 171,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 19,
+        "date": "19/06",
+        "equation_of_time_minutes": -1.0034
+      },
+      {
+        "day_of_year": 172,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 20,
+        "date": "20/06",
+        "equation_of_time_minutes": -1.2221
+      },
+      {
+        "day_of_year": 173,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 21,
+        "date": "21/06",
+        "equation_of_time_minutes": -1.441
+      },
+      {
+        "day_of_year": 174,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 22,
+        "date": "22/06",
+        "equation_of_time_minutes": -1.6598
+      },
+      {
+        "day_of_year": 175,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 23,
+        "date": "23/06",
+        "equation_of_time_minutes": -1.878
+      },
+      {
+        "day_of_year": 176,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 24,
+        "date": "24/06",
+        "equation_of_time_minutes": -2.0955
+      },
+      {
+        "day_of_year": 177,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 25,
+        "date": "25/06",
+        "equation_of_time_minutes": -2.3117
+      },
+      {
+        "day_of_year": 178,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 26,
+        "date": "26/06",
+        "equation_of_time_minutes": -2.5263
+      },
+      {
+        "day_of_year": 179,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 27,
+        "date": "27/06",
+        "equation_of_time_minutes": -2.7389
+      },
+      {
+        "day_of_year": 180,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 28,
+        "date": "28/06",
+        "equation_of_time_minutes": -2.9493
+      },
+      {
+        "day_of_year": 181,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 29,
+        "date": "29/06",
+        "equation_of_time_minutes": -3.157
+      },
+      {
+        "day_of_year": 182,
+        "month": 6,
+        "month_name_ar": "يونيو",
+        "day": 30,
+        "date": "30/06",
+        "equation_of_time_minutes": -3.3616
+      },
+      {
+        "day_of_year": 183,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 1,
+        "date": "01/07",
+        "equation_of_time_minutes": -3.5629
+      },
+      {
+        "day_of_year": 184,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 2,
+        "date": "02/07",
+        "equation_of_time_minutes": -3.7604
+      },
+      {
+        "day_of_year": 185,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 3,
+        "date": "03/07",
+        "equation_of_time_minutes": -3.9538
+      },
+      {
+        "day_of_year": 186,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 4,
+        "date": "04/07",
+        "equation_of_time_minutes": -4.1429
+      },
+      {
+        "day_of_year": 187,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 5,
+        "date": "05/07",
+        "equation_of_time_minutes": -4.3272
+      },
+      {
+        "day_of_year": 188,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 6,
+        "date": "06/07",
+        "equation_of_time_minutes": -4.5064
+      },
+      {
+        "day_of_year": 189,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 7,
+        "date": "07/07",
+        "equation_of_time_minutes": -4.6802
+      },
+      {
+        "day_of_year": 190,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 8,
+        "date": "08/07",
+        "equation_of_time_minutes": -4.8483
+      },
+      {
+        "day_of_year": 191,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 9,
+        "date": "09/07",
+        "equation_of_time_minutes": -5.0104
+      },
+      {
+        "day_of_year": 192,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 10,
+        "date": "10/07",
+        "equation_of_time_minutes": -5.1661
+      },
+      {
+        "day_of_year": 193,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 11,
+        "date": "11/07",
+        "equation_of_time_minutes": -5.3152
+      },
+      {
+        "day_of_year": 194,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 12,
+        "date": "12/07",
+        "equation_of_time_minutes": -5.4574
+      },
+      {
+        "day_of_year": 195,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 13,
+        "date": "13/07",
+        "equation_of_time_minutes": -5.5925
+      },
+      {
+        "day_of_year": 196,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 14,
+        "date": "14/07",
+        "equation_of_time_minutes": -5.72
+      },
+      {
+        "day_of_year": 197,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 15,
+        "date": "15/07",
+        "equation_of_time_minutes": -5.8398
+      },
+      {
+        "day_of_year": 198,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 16,
+        "date": "16/07",
+        "equation_of_time_minutes": -5.9517
+      },
+      {
+        "day_of_year": 199,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 17,
+        "date": "17/07",
+        "equation_of_time_minutes": -6.0554
+      },
+      {
+        "day_of_year": 200,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 18,
+        "date": "18/07",
+        "equation_of_time_minutes": -6.1506
+      },
+      {
+        "day_of_year": 201,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 19,
+        "date": "19/07",
+        "equation_of_time_minutes": -6.2371
+      },
+      {
+        "day_of_year": 202,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 20,
+        "date": "20/07",
+        "equation_of_time_minutes": -6.3147
+      },
+      {
+        "day_of_year": 203,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 21,
+        "date": "21/07",
+        "equation_of_time_minutes": -6.3833
+      },
+      {
+        "day_of_year": 204,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 22,
+        "date": "22/07",
+        "equation_of_time_minutes": -6.4426
+      },
+      {
+        "day_of_year": 205,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 23,
+        "date": "23/07",
+        "equation_of_time_minutes": -6.4925
+      },
+      {
+        "day_of_year": 206,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 24,
+        "date": "24/07",
+        "equation_of_time_minutes": -6.5327
+      },
+      {
+        "day_of_year": 207,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 25,
+        "date": "25/07",
+        "equation_of_time_minutes": -6.5632
+      },
+      {
+        "day_of_year": 208,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 26,
+        "date": "26/07",
+        "equation_of_time_minutes": -6.5838
+      },
+      {
+        "day_of_year": 209,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 27,
+        "date": "27/07",
+        "equation_of_time_minutes": -6.5943
+      },
+      {
+        "day_of_year": 210,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 28,
+        "date": "28/07",
+        "equation_of_time_minutes": -6.5947
+      },
+      {
+        "day_of_year": 211,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 29,
+        "date": "29/07",
+        "equation_of_time_minutes": -6.5848
+      },
+      {
+        "day_of_year": 212,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 30,
+        "date": "30/07",
+        "equation_of_time_minutes": -6.5646
+      },
+      {
+        "day_of_year": 213,
+        "month": 7,
+        "month_name_ar": "يوليو",
+        "day": 31,
+        "date": "31/07",
+        "equation_of_time_minutes": -6.5339
+      },
+      {
+        "day_of_year": 214,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 1,
+        "date": "01/08",
+        "equation_of_time_minutes": -6.4928
+      },
+      {
+        "day_of_year": 215,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 2,
+        "date": "02/08",
+        "equation_of_time_minutes": -6.4411
+      },
+      {
+        "day_of_year": 216,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 3,
+        "date": "03/08",
+        "equation_of_time_minutes": -6.3788
+      },
+      {
+        "day_of_year": 217,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 4,
+        "date": "04/08",
+        "equation_of_time_minutes": -6.3059
+      },
+      {
+        "day_of_year": 218,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 5,
+        "date": "05/08",
+        "equation_of_time_minutes": -6.2224
+      },
+      {
+        "day_of_year": 219,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 6,
+        "date": "06/08",
+        "equation_of_time_minutes": -6.1283
+      },
+      {
+        "day_of_year": 220,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 7,
+        "date": "07/08",
+        "equation_of_time_minutes": -6.0236
+      },
+      {
+        "day_of_year": 221,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 8,
+        "date": "08/08",
+        "equation_of_time_minutes": -5.9083
+      },
+      {
+        "day_of_year": 222,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 9,
+        "date": "09/08",
+        "equation_of_time_minutes": -5.7824
+      },
+      {
+        "day_of_year": 223,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 10,
+        "date": "10/08",
+        "equation_of_time_minutes": -5.6461
+      },
+      {
+        "day_of_year": 224,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 11,
+        "date": "11/08",
+        "equation_of_time_minutes": -5.4994
+      },
+      {
+        "day_of_year": 225,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 12,
+        "date": "12/08",
+        "equation_of_time_minutes": -5.3423
+      },
+      {
+        "day_of_year": 226,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 13,
+        "date": "13/08",
+        "equation_of_time_minutes": -5.175
+      },
+      {
+        "day_of_year": 227,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 14,
+        "date": "14/08",
+        "equation_of_time_minutes": -4.9976
+      },
+      {
+        "day_of_year": 228,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 15,
+        "date": "15/08",
+        "equation_of_time_minutes": -4.8101
+      },
+      {
+        "day_of_year": 229,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 16,
+        "date": "16/08",
+        "equation_of_time_minutes": -4.6128
+      },
+      {
+        "day_of_year": 230,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 17,
+        "date": "17/08",
+        "equation_of_time_minutes": -4.4058
+      },
+      {
+        "day_of_year": 231,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 18,
+        "date": "18/08",
+        "equation_of_time_minutes": -4.1892
+      },
+      {
+        "day_of_year": 232,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 19,
+        "date": "19/08",
+        "equation_of_time_minutes": -3.9632
+      },
+      {
+        "day_of_year": 233,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 20,
+        "date": "20/08",
+        "equation_of_time_minutes": -3.7281
+      },
+      {
+        "day_of_year": 234,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 21,
+        "date": "21/08",
+        "equation_of_time_minutes": -3.4839
+      },
+      {
+        "day_of_year": 235,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 22,
+        "date": "22/08",
+        "equation_of_time_minutes": -3.2309
+      },
+      {
+        "day_of_year": 236,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 23,
+        "date": "23/08",
+        "equation_of_time_minutes": -2.9693
+      },
+      {
+        "day_of_year": 237,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 24,
+        "date": "24/08",
+        "equation_of_time_minutes": -2.6994
+      },
+      {
+        "day_of_year": 238,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 25,
+        "date": "25/08",
+        "equation_of_time_minutes": -2.4214
+      },
+      {
+        "day_of_year": 239,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 26,
+        "date": "26/08",
+        "equation_of_time_minutes": -2.1356
+      },
+      {
+        "day_of_year": 240,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 27,
+        "date": "27/08",
+        "equation_of_time_minutes": -1.8421
+      },
+      {
+        "day_of_year": 241,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 28,
+        "date": "28/08",
+        "equation_of_time_minutes": -1.5414
+      },
+      {
+        "day_of_year": 242,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 29,
+        "date": "29/08",
+        "equation_of_time_minutes": -1.2337
+      },
+      {
+        "day_of_year": 243,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 30,
+        "date": "30/08",
+        "equation_of_time_minutes": -0.9192
+      },
+      {
+        "day_of_year": 244,
+        "month": 8,
+        "month_name_ar": "أغسطس",
+        "day": 31,
+        "date": "31/08",
+        "equation_of_time_minutes": -0.5983
+      },
+      {
+        "day_of_year": 245,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 1,
+        "date": "01/09",
+        "equation_of_time_minutes": -0.2713
+      },
+      {
+        "day_of_year": 246,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 2,
+        "date": "02/09",
+        "equation_of_time_minutes": 0.0615
+      },
+      {
+        "day_of_year": 247,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 3,
+        "date": "03/09",
+        "equation_of_time_minutes": 0.3997
+      },
+      {
+        "day_of_year": 248,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 4,
+        "date": "04/09",
+        "equation_of_time_minutes": 0.743
+      },
+      {
+        "day_of_year": 249,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 5,
+        "date": "05/09",
+        "equation_of_time_minutes": 1.0911
+      },
+      {
+        "day_of_year": 250,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 6,
+        "date": "06/09",
+        "equation_of_time_minutes": 1.4436
+      },
+      {
+        "day_of_year": 251,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 7,
+        "date": "07/09",
+        "equation_of_time_minutes": 1.8001
+      },
+      {
+        "day_of_year": 252,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 8,
+        "date": "08/09",
+        "equation_of_time_minutes": 2.1604
+      },
+      {
+        "day_of_year": 253,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 9,
+        "date": "09/09",
+        "equation_of_time_minutes": 2.5239
+      },
+      {
+        "day_of_year": 254,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 10,
+        "date": "10/09",
+        "equation_of_time_minutes": 2.8903
+      },
+      {
+        "day_of_year": 255,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 11,
+        "date": "11/09",
+        "equation_of_time_minutes": 3.2593
+      },
+      {
+        "day_of_year": 256,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 12,
+        "date": "12/09",
+        "equation_of_time_minutes": 3.6304
+      },
+      {
+        "day_of_year": 257,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 13,
+        "date": "13/09",
+        "equation_of_time_minutes": 4.0033
+      },
+      {
+        "day_of_year": 258,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 14,
+        "date": "14/09",
+        "equation_of_time_minutes": 4.3775
+      },
+      {
+        "day_of_year": 259,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 15,
+        "date": "15/09",
+        "equation_of_time_minutes": 4.7527
+      },
+      {
+        "day_of_year": 260,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 16,
+        "date": "16/09",
+        "equation_of_time_minutes": 5.1285
+      },
+      {
+        "day_of_year": 261,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 17,
+        "date": "17/09",
+        "equation_of_time_minutes": 5.5044
+      },
+      {
+        "day_of_year": 262,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 18,
+        "date": "18/09",
+        "equation_of_time_minutes": 5.88
+      },
+      {
+        "day_of_year": 263,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 19,
+        "date": "19/09",
+        "equation_of_time_minutes": 6.2549
+      },
+      {
+        "day_of_year": 264,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 20,
+        "date": "20/09",
+        "equation_of_time_minutes": 6.6288
+      },
+      {
+        "day_of_year": 265,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 21,
+        "date": "21/09",
+        "equation_of_time_minutes": 7.0012
+      },
+      {
+        "day_of_year": 266,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 22,
+        "date": "22/09",
+        "equation_of_time_minutes": 7.3717
+      },
+      {
+        "day_of_year": 267,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 23,
+        "date": "23/09",
+        "equation_of_time_minutes": 7.7398
+      },
+      {
+        "day_of_year": 268,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 24,
+        "date": "24/09",
+        "equation_of_time_minutes": 8.1052
+      },
+      {
+        "day_of_year": 269,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 25,
+        "date": "25/09",
+        "equation_of_time_minutes": 8.4675
+      },
+      {
+        "day_of_year": 270,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 26,
+        "date": "26/09",
+        "equation_of_time_minutes": 8.8263
+      },
+      {
+        "day_of_year": 271,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 27,
+        "date": "27/09",
+        "equation_of_time_minutes": 9.1811
+      },
+      {
+        "day_of_year": 272,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 28,
+        "date": "28/09",
+        "equation_of_time_minutes": 9.5315
+      },
+      {
+        "day_of_year": 273,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 29,
+        "date": "29/09",
+        "equation_of_time_minutes": 9.8772
+      },
+      {
+        "day_of_year": 274,
+        "month": 9,
+        "month_name_ar": "سبتمبر",
+        "day": 30,
+        "date": "30/09",
+        "equation_of_time_minutes": 10.2177
+      },
+      {
+        "day_of_year": 275,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 1,
+        "date": "01/10",
+        "equation_of_time_minutes": 10.5528
+      },
+      {
+        "day_of_year": 276,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 2,
+        "date": "02/10",
+        "equation_of_time_minutes": 10.8818
+      },
+      {
+        "day_of_year": 277,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 3,
+        "date": "03/10",
+        "equation_of_time_minutes": 11.2046
+      },
+      {
+        "day_of_year": 278,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 4,
+        "date": "04/10",
+        "equation_of_time_minutes": 11.5207
+      },
+      {
+        "day_of_year": 279,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 5,
+        "date": "05/10",
+        "equation_of_time_minutes": 11.8298
+      },
+      {
+        "day_of_year": 280,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 6,
+        "date": "06/10",
+        "equation_of_time_minutes": 12.1314
+      },
+      {
+        "day_of_year": 281,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 7,
+        "date": "07/10",
+        "equation_of_time_minutes": 12.4253
+      },
+      {
+        "day_of_year": 282,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 8,
+        "date": "08/10",
+        "equation_of_time_minutes": 12.711
+      },
+      {
+        "day_of_year": 283,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 9,
+        "date": "09/10",
+        "equation_of_time_minutes": 12.9883
+      },
+      {
+        "day_of_year": 284,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 10,
+        "date": "10/10",
+        "equation_of_time_minutes": 13.2568
+      },
+      {
+        "day_of_year": 285,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 11,
+        "date": "11/10",
+        "equation_of_time_minutes": 13.5162
+      },
+      {
+        "day_of_year": 286,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 12,
+        "date": "12/10",
+        "equation_of_time_minutes": 13.7661
+      },
+      {
+        "day_of_year": 287,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 13,
+        "date": "13/10",
+        "equation_of_time_minutes": 14.0063
+      },
+      {
+        "day_of_year": 288,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 14,
+        "date": "14/10",
+        "equation_of_time_minutes": 14.2364
+      },
+      {
+        "day_of_year": 289,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 15,
+        "date": "15/10",
+        "equation_of_time_minutes": 14.4562
+      },
+      {
+        "day_of_year": 290,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 16,
+        "date": "16/10",
+        "equation_of_time_minutes": 14.6654
+      },
+      {
+        "day_of_year": 291,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 17,
+        "date": "17/10",
+        "equation_of_time_minutes": 14.8638
+      },
+      {
+        "day_of_year": 292,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 18,
+        "date": "18/10",
+        "equation_of_time_minutes": 15.051
+      },
+      {
+        "day_of_year": 293,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 19,
+        "date": "19/10",
+        "equation_of_time_minutes": 15.2268
+      },
+      {
+        "day_of_year": 294,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 20,
+        "date": "20/10",
+        "equation_of_time_minutes": 15.391
+      },
+      {
+        "day_of_year": 295,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 21,
+        "date": "21/10",
+        "equation_of_time_minutes": 15.5434
+      },
+      {
+        "day_of_year": 296,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 22,
+        "date": "22/10",
+        "equation_of_time_minutes": 15.6837
+      },
+      {
+        "day_of_year": 297,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 23,
+        "date": "23/10",
+        "equation_of_time_minutes": 15.8118
+      },
+      {
+        "day_of_year": 298,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 24,
+        "date": "24/10",
+        "equation_of_time_minutes": 15.9275
+      },
+      {
+        "day_of_year": 299,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 25,
+        "date": "25/10",
+        "equation_of_time_minutes": 16.0306
+      },
+      {
+        "day_of_year": 300,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 26,
+        "date": "26/10",
+        "equation_of_time_minutes": 16.121
+      },
+      {
+        "day_of_year": 301,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 27,
+        "date": "27/10",
+        "equation_of_time_minutes": 16.1984
+      },
+      {
+        "day_of_year": 302,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 28,
+        "date": "28/10",
+        "equation_of_time_minutes": 16.2629
+      },
+      {
+        "day_of_year": 303,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 29,
+        "date": "29/10",
+        "equation_of_time_minutes": 16.3141
+      },
+      {
+        "day_of_year": 304,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 30,
+        "date": "30/10",
+        "equation_of_time_minutes": 16.3522
+      },
+      {
+        "day_of_year": 305,
+        "month": 10,
+        "month_name_ar": "أكتوبر",
+        "day": 31,
+        "date": "31/10",
+        "equation_of_time_minutes": 16.3769
+      },
+      {
+        "day_of_year": 306,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 1,
+        "date": "01/11",
+        "equation_of_time_minutes": 16.3882
+      },
+      {
+        "day_of_year": 307,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 2,
+        "date": "02/11",
+        "equation_of_time_minutes": 16.3859
+      },
+      {
+        "day_of_year": 308,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 3,
+        "date": "03/11",
+        "equation_of_time_minutes": 16.3702
+      },
+      {
+        "day_of_year": 309,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 4,
+        "date": "04/11",
+        "equation_of_time_minutes": 16.3409
+      },
+      {
+        "day_of_year": 310,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 5,
+        "date": "05/11",
+        "equation_of_time_minutes": 16.298
+      },
+      {
+        "day_of_year": 311,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 6,
+        "date": "06/11",
+        "equation_of_time_minutes": 16.2416
+      },
+      {
+        "day_of_year": 312,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 7,
+        "date": "07/11",
+        "equation_of_time_minutes": 16.1715
+      },
+      {
+        "day_of_year": 313,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 8,
+        "date": "08/11",
+        "equation_of_time_minutes": 16.0879
+      },
+      {
+        "day_of_year": 314,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 9,
+        "date": "09/11",
+        "equation_of_time_minutes": 15.9908
+      },
+      {
+        "day_of_year": 315,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 10,
+        "date": "10/11",
+        "equation_of_time_minutes": 15.8802
+      },
+      {
+        "day_of_year": 316,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 11,
+        "date": "11/11",
+        "equation_of_time_minutes": 15.7563
+      },
+      {
+        "day_of_year": 317,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 12,
+        "date": "12/11",
+        "equation_of_time_minutes": 15.619
+      },
+      {
+        "day_of_year": 318,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 13,
+        "date": "13/11",
+        "equation_of_time_minutes": 15.4684
+      },
+      {
+        "day_of_year": 319,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 14,
+        "date": "14/11",
+        "equation_of_time_minutes": 15.3048
+      },
+      {
+        "day_of_year": 320,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 15,
+        "date": "15/11",
+        "equation_of_time_minutes": 15.1282
+      },
+      {
+        "day_of_year": 321,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 16,
+        "date": "16/11",
+        "equation_of_time_minutes": 14.9387
+      },
+      {
+        "day_of_year": 322,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 17,
+        "date": "17/11",
+        "equation_of_time_minutes": 14.7365
+      },
+      {
+        "day_of_year": 323,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 18,
+        "date": "18/11",
+        "equation_of_time_minutes": 14.5217
+      },
+      {
+        "day_of_year": 324,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 19,
+        "date": "19/11",
+        "equation_of_time_minutes": 14.2946
+      },
+      {
+        "day_of_year": 325,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 20,
+        "date": "20/11",
+        "equation_of_time_minutes": 14.0553
+      },
+      {
+        "day_of_year": 326,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 21,
+        "date": "21/11",
+        "equation_of_time_minutes": 13.8041
+      },
+      {
+        "day_of_year": 327,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 22,
+        "date": "22/11",
+        "equation_of_time_minutes": 13.5411
+      },
+      {
+        "day_of_year": 328,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 23,
+        "date": "23/11",
+        "equation_of_time_minutes": 13.2665
+      },
+      {
+        "day_of_year": 329,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 24,
+        "date": "24/11",
+        "equation_of_time_minutes": 12.9807
+      },
+      {
+        "day_of_year": 330,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 25,
+        "date": "25/11",
+        "equation_of_time_minutes": 12.6838
+      },
+      {
+        "day_of_year": 331,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 26,
+        "date": "26/11",
+        "equation_of_time_minutes": 12.3762
+      },
+      {
+        "day_of_year": 332,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 27,
+        "date": "27/11",
+        "equation_of_time_minutes": 12.0581
+      },
+      {
+        "day_of_year": 333,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 28,
+        "date": "28/11",
+        "equation_of_time_minutes": 11.7297
+      },
+      {
+        "day_of_year": 334,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 29,
+        "date": "29/11",
+        "equation_of_time_minutes": 11.3915
+      },
+      {
+        "day_of_year": 335,
+        "month": 11,
+        "month_name_ar": "نوفمبر",
+        "day": 30,
+        "date": "30/11",
+        "equation_of_time_minutes": 11.0436
+      },
+      {
+        "day_of_year": 336,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 1,
+        "date": "01/12",
+        "equation_of_time_minutes": 10.6865
+      },
+      {
+        "day_of_year": 337,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 2,
+        "date": "02/12",
+        "equation_of_time_minutes": 10.3204
+      },
+      {
+        "day_of_year": 338,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 3,
+        "date": "03/12",
+        "equation_of_time_minutes": 9.9458
+      },
+      {
+        "day_of_year": 339,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 4,
+        "date": "04/12",
+        "equation_of_time_minutes": 9.5628
+      },
+      {
+        "day_of_year": 340,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 5,
+        "date": "05/12",
+        "equation_of_time_minutes": 9.1719
+      },
+      {
+        "day_of_year": 341,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 6,
+        "date": "06/12",
+        "equation_of_time_minutes": 8.7735
+      },
+      {
+        "day_of_year": 342,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 7,
+        "date": "07/12",
+        "equation_of_time_minutes": 8.3679
+      },
+      {
+        "day_of_year": 343,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 8,
+        "date": "08/12",
+        "equation_of_time_minutes": 7.9555
+      },
+      {
+        "day_of_year": 344,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 9,
+        "date": "09/12",
+        "equation_of_time_minutes": 7.5367
+      },
+      {
+        "day_of_year": 345,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 10,
+        "date": "10/12",
+        "equation_of_time_minutes": 7.1119
+      },
+      {
+        "day_of_year": 346,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 11,
+        "date": "11/12",
+        "equation_of_time_minutes": 6.6815
+      },
+      {
+        "day_of_year": 347,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 12,
+        "date": "12/12",
+        "equation_of_time_minutes": 6.2459
+      },
+      {
+        "day_of_year": 348,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 13,
+        "date": "13/12",
+        "equation_of_time_minutes": 5.8054
+      },
+      {
+        "day_of_year": 349,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 14,
+        "date": "14/12",
+        "equation_of_time_minutes": 5.3606
+      },
+      {
+        "day_of_year": 350,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 15,
+        "date": "15/12",
+        "equation_of_time_minutes": 4.9119
+      },
+      {
+        "day_of_year": 351,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 16,
+        "date": "16/12",
+        "equation_of_time_minutes": 4.4596
+      },
+      {
+        "day_of_year": 352,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 17,
+        "date": "17/12",
+        "equation_of_time_minutes": 4.0041
+      },
+      {
+        "day_of_year": 353,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 18,
+        "date": "18/12",
+        "equation_of_time_minutes": 3.546
+      },
+      {
+        "day_of_year": 354,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 19,
+        "date": "19/12",
+        "equation_of_time_minutes": 3.0857
+      },
+      {
+        "day_of_year": 355,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 20,
+        "date": "20/12",
+        "equation_of_time_minutes": 2.6235
+      },
+      {
+        "day_of_year": 356,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 21,
+        "date": "21/12",
+        "equation_of_time_minutes": 2.16
+      },
+      {
+        "day_of_year": 357,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 22,
+        "date": "22/12",
+        "equation_of_time_minutes": 1.6956
+      },
+      {
+        "day_of_year": 358,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 23,
+        "date": "23/12",
+        "equation_of_time_minutes": 1.2306
+      },
+      {
+        "day_of_year": 359,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 24,
+        "date": "24/12",
+        "equation_of_time_minutes": 0.7656
+      },
+      {
+        "day_of_year": 360,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 25,
+        "date": "25/12",
+        "equation_of_time_minutes": 0.301
+      },
+      {
+        "day_of_year": 361,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 26,
+        "date": "26/12",
+        "equation_of_time_minutes": -0.1628
+      },
+      {
+        "day_of_year": 362,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 27,
+        "date": "27/12",
+        "equation_of_time_minutes": -0.6254
+      },
+      {
+        "day_of_year": 363,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 28,
+        "date": "28/12",
+        "equation_of_time_minutes": -1.0863
+      },
+      {
+        "day_of_year": 364,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 29,
+        "date": "29/12",
+        "equation_of_time_minutes": -1.545
+      },
+      {
+        "day_of_year": 365,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 30,
+        "date": "30/12",
+        "equation_of_time_minutes": -2.0012
+      },
+      {
+        "day_of_year": 366,
+        "month": 12,
+        "month_name_ar": "ديسمبر",
+        "day": 31,
+        "date": "31/12",
+        "equation_of_time_minutes": -2.4544
+      }
+    ]
