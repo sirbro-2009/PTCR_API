@@ -1,6 +1,8 @@
 const express = require('express')
 const app = express()
 const port = 3000
+const cors = require('cors');
+app.use(cors());
 //const {duhrCalc,fadjrCalc,assrClac, magrebCalc,ishaCalc,SunriseCalc} = require("./prayer_time")
 const {newObg} = require("./object_respond")
 app.get("/PTCR-Api",(req,res)=>{
