@@ -1,4 +1,4 @@
-const {date,month,year,fullDate,isLeap,editTime,returnTime} = require("./time_tool")
+const { getDate, getMonth, getYear, getFullDate, isLeap, editTime, returnTime } = require("./time_tool")
 const {duhrCalc,fadjrCalc,assrClac, magrebCalc,ishaCalc,SunriseCalc} = require("./prayer_time")
 const {theResault} = require("./hydjri_modules")
 ///

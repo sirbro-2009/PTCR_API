@@ -1,4 +1,7 @@
-const {date,month,year} = require("./time_tool")
+const { getDate, getMonth, getYear, getFullDate, isLeap, editTime, returnTime } = require("./time_tool")
+let date = getDate()
+let month = getMonth()
+let year = getYear()
 const hijriMonths = [
                     { ar: "محرم",        en: "Muharram" },
                     { ar: "صفر",         en: "Safar" },

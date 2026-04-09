@@ -1,17 +1,25 @@
 const theDate = new Date(Date.now())
-let date = editTime(theDate.getDate())
-let month = editTime(theDate.getMonth()+1)
-let year = editTime(theDate.getFullYear())
 function editTime(value){
     return value >= 10 ? value : `0${value}`
 } 
-setInterval(() => {
-date = editTime(theDate.getDate())
-month = editTime(theDate.getMonth()+1)
-year = editTime(theDate.getFullYear())
-}, 1000);
-let fullDate  = `${date}-${month}-${year}`
-let isLeap = year%4===0?true:false
+function getDate(){
+    const theDate = new Date()
+    return editTime(theDate.getDate())
+}
+function getMonth(){
+    const theDate = new Date()
+    return editTime(theDate.getMonth()+1)
+}
+function getYear(){
+    const theDate = new Date()
+    return editTime(theDate.getFullYear())
+}
+function getFullDate(){
+    return `${getDate()}-${getMonth()}-${getYear()}`
+}
+function isLeap(){
+    return new Date().getFullYear() % 4 === 0
+}
 let returnTime = (reuslt,offset,isInterVal)=>{
 let resArr = reuslt.toString().split(".")
 let [hours,min] = resArr
@@ -29,4 +37,4 @@ finalmins = finalmins - 60*value
 
 return `${editTime(numbredHours)}:${editTime(finalmins)}`
 }
-module.exports  = {date,month,year,fullDate,isLeap,editTime,returnTime}
+module.exports  = {getDate,getMonth,getYear,getFullDate,isLeap,editTime,returnTime}
